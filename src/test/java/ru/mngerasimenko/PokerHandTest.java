@@ -1,4 +1,4 @@
-package ru.mngerasimenko.model;
+package ru.mngerasimenko;
 
 import java.util.ArrayList;
 import java.util.Arrays;

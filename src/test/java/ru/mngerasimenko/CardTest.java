@@ -1,4 +1,4 @@
-package ru.mngerasimenko.model;
+package ru.mngerasimenko;
 
 import org.junit.Assert;
 import org.junit.Test;

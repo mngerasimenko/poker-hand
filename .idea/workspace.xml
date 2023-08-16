@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e0d674c-9b33-43b3-953d-0e89f433e828" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/PokerHand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/exceptions/CreateCardException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/exceptions/PokerHandException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Flush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Four.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/FullHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/HandValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/HighCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Straight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/StraightFlush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/TwoPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/mngerasimenko/model/CardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/mngerasimenko/model/PokerHandTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="0e0d674c-9b33-43b3-953d-0e89f433e828" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,6 +156,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692017302974</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1692166960872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692166960872</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +176,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
