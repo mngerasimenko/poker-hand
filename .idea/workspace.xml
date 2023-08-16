@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e0d674c-9b33-43b3-953d-0e89f433e828" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/PokerHand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/Starter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/exceptions/CreateCardException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/exceptions/PokerHandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Flush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/FullHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/HandValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/HighCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Straight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/StraightFlush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/TwoPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/mngerasimenko/model/CardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/mngerasimenko/model/PokerHandTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TyZVILtXEhYMAl2M7bAq6xU8aJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "1.8 (2)",
+    "last_opened_file_path": "D:/javaProjects/poker-hand",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.mngerasimenko.exceptions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaProjects\poker-hand" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.mngerasimenko" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.mngerasimenko.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Starter">
+    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.mngerasimenko.Starter" />
+      <module name="poker-hand" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mngerasimenko.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in poker-hand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poker-hand" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardTest.notEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poker-hand" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mngerasimenko.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.mngerasimenko.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.mngerasimenko.model.CardTest" />
+      <option name="METHOD_NAME" value="notEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerHandTest.equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poker-hand" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mngerasimenko.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.mngerasimenko.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.mngerasimenko.model.PokerHandTest" />
+      <option name="METHOD_NAME" value="equals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerHandTest.notEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poker-hand" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.mngerasimenko.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.mngerasimenko.model" />
+      <option name="MAIN_CLASS_NAME" value="ru.mngerasimenko.model.PokerHandTest" />
+      <option name="METHOD_NAME" value="notEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Starter" />
+        <item itemvalue="JUnit.All in poker-hand" />
+        <item itemvalue="JUnit.PokerHandTest.equals" />
+        <item itemvalue="JUnit.PokerHandTest.notEquals" />
+        <item itemvalue="JUnit.CardTest.notEquals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0d674c-9b33-43b3-953d-0e89f433e828" name="Changes" comment="" />
+      <created>1692017302974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692017302974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/mngerasimenko/handValues/Four.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="SUIT_TYPES" language="JAVA" />
+        <watch expression="pokerHand.stream() &#9;&#9;&#9;&#9;.collect(Collectors.groupingBy(Card::getPower))" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
